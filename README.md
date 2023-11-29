@@ -24,3 +24,5 @@ Intuitive Interface (see screenshot below)
 Acknowledgments
 
 Special thanks to TMDB for providing the rich movies dataset.
+
+Dataset Link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
