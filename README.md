@@ -22,4 +22,5 @@ Intuitive Interface (see screenshot below)
 
 
 Acknowledgments
+
 Special thanks to TMDB for providing the rich movies dataset.
